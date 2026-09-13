@@ -1,0 +1,9 @@
+{
+  "name":"わが家トーク",
+  "short_name":"わが家トーク",
+  "start_url":"/",
+  "display":"standalone",
+  "background_color":"#f7f5ef",
+  "theme_color":"#f7f5ef",
+  "icons":[{"src":"/icon.svg","sizes":"any","type":"image/svg+xml"}]
+}
